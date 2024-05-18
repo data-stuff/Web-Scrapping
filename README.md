@@ -1,5 +1,6 @@
 # Rock-Burger-Reviews
 Scrape, Explore, Analyze: A Comprehensive Data Project
+
 Welcome to the Rock Burger Reviews repository! This project showcases a complete data workflow, from data extraction and transformation to in-depth analysis and visualization. The repository is organized into four main sections:
 
 Python: Contains Python scripts for for data scraping, preliminary analysis, and Visualization.
