@@ -1,7 +1,6 @@
 # Rock-Burger-Reviews 
 **This repository is currently under construction** 
-Scrape, Explore, Analyze: A Comprehensive DataMining Project
-
+A Comprehensive DataMining Project: Scrape, Explore, Analyze, Visualize
 Welcome to the Rock Burger Reviews repository! This project showcases a complete data mining workflow, from data extraction and transformation to in-depth analysis and visualization. 
 
 ## Roadmap
